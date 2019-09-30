@@ -1,0 +1,18 @@
+- score_data:
+    - school_a:
+        - english_score.csv
+        - science_score.csv
+    - school_b:
+        - final_score.csv
+        - semester1:
+            - english_score.csv
+            - science_score.csv
+            - mathematics_score.csv
+        - semester2:
+            - english_score.csv
+            - science_score.csv
+            - mathematics_score.csv
+        - semester3:
+            - english_score.csv
+            - science_score.csv
+            - mathematics_score.csv
